@@ -66,7 +66,7 @@
 
 3DOptix provides native‑cloud optical prototyping and optical bench simulation software. Their platform offers design‑studio tools, AI‑assisted optical design, OptiTwin and TrueScene beta programs, and a suite of simulation widgets, catalog, filter finder, and API integration for developers to embed optical design capabilities into applications. The company serves industries such as imaging, academia, and engineering with cloud‑based solutions and extensive documentation, tutorials, and support resources.
 
-**Areas:** Company · OpticalDesign · Simulation · CloudSoftware · Engineering
+**Areas:** Company · Optical Design · Simulation · Cloud Software · Engineering
 
 ## 3DOptix on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Doptix Com Domain Security](https://apis.io/security/3doptix-com/3doptix-com-domain-security/)
+- [3DOptix Domain Security](https://apis.io/security/3doptix-com/3doptix-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Doptix Com Plans Pricing](https://apis.io/plans/3doptix-com/3doptix-com-plans-pricing/)
+- [3DOptix Plans Pricing](https://apis.io/plans/3doptix-com/3doptix-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -101,7 +101,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.3** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 22.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -110,9 +110,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 28.6 |
-| Access clarity | 60.0 |
+| Access clarity | 66.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -137,8 +137,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/3doptix-com/](https://apis.io/providers/3doptix-com/).
 
